@@ -1,7 +1,7 @@
-# Template for EGI repositories
+# Template for EOSC Data Commons repositories
 
-This repository is to be used as a repository template for creating a new EGI
-repository, and is aiming at being a clean basis promoting currently accepted
+This repository is to be used as a repository template for creating a new
+EOSC Data Commons repository, and is aiming at being a clean basis promoting currently accepted
 good practices.
 
 It includes:
@@ -19,24 +19,6 @@ Content is based on:
 - [Contributor Covenant](http://contributor-covenant.org)
 - [Semantic Versioning](https://semver.org/)
 - [Chef Cookbook Contributing Guide](https://github.com/chef-cookbooks/community_cookbook_documentation/blob/master/CONTRIBUTING.MD)
-
-## Asking for creation of a repository
-
-It can be done by contacting the
-[administrators](https://github.com/orgs/EGI-Federation/teams/admins).
-
-The following information should be provided:
-
-- repository name (lower case, usually not required to mention EGI in the name)
-- repository description (oneliner is enough)
-- optionally additional users that should be able to manage PR and issues
-- optional additional requirements (like disabling Pull Requests for the initial
-  repository population)
-
-If required a private repository can be created but public ones are the default,
-but feel free to ask.
-
-Once all info will have been agreed the repository will be created.
 
 ## GitHub repository management rules
 
@@ -63,8 +45,8 @@ To be configured on the repository settings.
 ## Access
 
 All access should be managed via
-[GitHub teams](https://github.com/orgs/EGI-Federation/teams).
+[GitHub teams](https://github.com/orgs/EOSC-Data-Commons/teams).
 
-- EGI-Federation/admins: administration right
-- Others participants depending on the requirement: maintain, triage or write or
-  rights
+## Acknoledgment
+
+EOSC Data Commons is co-funded by the European Union.
